@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 coffee ice cream
 pizza
 fries
+=======
+African Queen
+Three idiots
+Star Wars
+>>>>>>> movies
